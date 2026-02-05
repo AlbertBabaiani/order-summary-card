@@ -13,7 +13,7 @@ The project works well on all devices and is easy to customize. Use it for pract
 
 ## 🚀 Live Preview
 
-[Live Preview Link](https://albertbabaiani.github.io/oder-summary-card/)
+[Live Preview Link](https://albertbabaiani.github.io/order-summary-card/)
 
 ![Order Summary Card Screenshot](images/preview.png)
 
